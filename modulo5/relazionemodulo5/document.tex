@@ -1,0 +1,87 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage{graphicx}
+\usepackage{floatflt,epsfig}
+\usepackage{graphicx}
+\usepackage{pgfplots}
+\usepackage{booktabs,xltabular}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{
+	colorlinks,
+	linkcolor={red!50!black},
+	citecolor={blue!50!black},
+	urlcolor={blue!80!black}
+}
+\usepackage{pgfplots,pgfplotstable}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{sidecap}
+\bibliographystyle{plain}
+\usepackage[export]{adjustbox}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{amssymb}
+\usepackage{amsmath,amssymb}
+\usepackage{amscd} 
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+\lstset{language=Python,
+	basicstyle=\small,
+	keywordstyle=\color{black}\bfseries,
+	commentstyle=\color{orange},
+	numbers=left, numberstyle=\tiny, stepnumber=1, numbersep=5pt,
+	frame=single}
+
+\title{Modello di ising 2D e transizione di fase}
+\author{Francesco Anna Mele, Marco Eterno, Edoardo Maria Centamori}
+
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			
+			\vspace{1cm}
+			{\LARGE\textbf{ Modello di ising quantistico simulato con DMRG}\par}
+			
+			\vspace{0.5cm}
+			{\Large Edoardo Centamori, Marco Eterno, \newline Francesco Anna Mele\par}
+			
+			\vspace{1cm}
+			
+			\includegraphics[width=0.4\linewidth]{unipi}
+			
+			
+		\end{center}
+	\tableofcontents
+	\end{titlepage}
+	
+	\newpage
+	\section{Introduzione}
+	L'obiettivo dell'esperienza è simulare un modello di ising quantistico 1D, misurando delle osservabili di interesse, al variare dei parametri del problema, ovvero il campo magnetico esterno e la taglia del sistema. Il tutto è implementato  attraverso l'infinite system DMRG. 
+
+	
+	\section{Modello di Ising quantistico 1-D}
+	La più generale Hamiltoniana per un sistema di spin quantistici su reticoli 1-D risulta essere
+	\begin{equation}
+		H=-\sum_{j} \sigma_j^z\sigma_{j+1}^z-h\sum_{j}\sigma_j^z-g\sum_{j}\sigma_j^x
+		\label{hamiltonian}
+	\end{equation}
+	il motivo per cui non serve considerare anche un eventuale termine $-j\sum_{j}\sigma_j^y$ è che prendiamo l'asse x orientato con la componente del campo magnetico esterno che non è diretta lungo z. Si è scelto x come asse preferenziale poichè così l'hamiltoniana è reale, e questo abbassa notevolmente i tempi di computazione. 
+	
+
+	
+	
+	
+	
+	
+	
+	
+\end{document}
