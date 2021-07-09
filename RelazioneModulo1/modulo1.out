@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduzione}{}% 1
+\BOOKMARK [1][-]{section.2}{Modello di Ising classico bi-dimensionale}{}% 2
+\BOOKMARK [1][-]{section.3}{Algoritmo}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Strategia di campionamento e linguaggi di programmazione utilizzati}{section.3}% 4
+\BOOKMARK [1][-]{section.4}{Parametri d'ordine}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Magnetizzazione media nulla per reticolo finito}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.2}{Cumulante di Binder}{section.4}% 7
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Commento sul cumulante di Binder a temperatura =0.45}{subsection.4.2}% 8
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Cumulante di Binder per temperatura =0.50}{subsection.4.2}% 9
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Bootstrap, bootstrap con binning e stima dell'errore sul cumulante di Binder}{subsection.4.2}% 10
+\BOOKMARK [1][-]{section.5}{Esponenti critici}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Valori teorici degli esponenti critici}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{Campionamento}{}% 13
+\BOOKMARK [1][-]{section.7}{Strategia numerica per la stima di , \040e c}{}% 14
+\BOOKMARK [1][-]{section.8}{Osservazioni sul plot di "426830A |M|"526930B }{}% 15
+\BOOKMARK [1][-]{section.9}{Osservazioni sul plot del calore specifico}{}% 16
+\BOOKMARK [1][-]{section.10}{Energia per sito e cumulante di Binder}{}% 17
+\BOOKMARK [1][-]{section.11}{Secondo modo per stimare }{}% 18
+\BOOKMARK [1][-]{section.12}{Comportamento ad alte e basse temperature}{}% 19
+\BOOKMARK [1][-]{section.13}{Conclusioni}{}% 20

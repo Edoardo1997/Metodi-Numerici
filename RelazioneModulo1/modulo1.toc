@@ -1,0 +1,22 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}% 
+\contentsline {section}{\numberline {2}Modello di Ising classico bi-dimensionale}{2}{section.2}% 
+\contentsline {section}{\numberline {3}Algoritmo}{2}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Strategia di campionamento e linguaggi di programmazione utilizzati}{3}{subsection.3.1}% 
+\contentsline {section}{\numberline {4}Parametri d'ordine}{5}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Magnetizzazione media nulla per reticolo finito}{5}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Cumulante di Binder}{7}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1}Commento sul cumulante di Binder a temperatura $\beta =0.45$}{10}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2}Cumulante di Binder per temperatura $\beta =0.50$}{10}{subsubsection.4.2.2}% 
+\contentsline {subsubsection}{\numberline {4.2.3}Bootstrap, bootstrap con binning e stima dell'errore sul cumulante di Binder}{11}{subsubsection.4.2.3}% 
+\contentsline {section}{\numberline {5}Esponenti critici}{12}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Valori teorici degli esponenti critici}{13}{subsection.5.1}% 
+\contentsline {section}{\numberline {6}Campionamento}{14}{section.6}% 
+\contentsline {section}{\numberline {7}Strategia numerica per la stima di $\nu $, $\gamma $ e $\beta _c$}{14}{section.7}% 
+\contentsline {section}{\numberline {8}Osservazioni sul plot di $\delimiter "426830A |M|\delimiter "526930B $}{19}{section.8}% 
+\contentsline {section}{\numberline {9}Osservazioni sul plot del calore specifico}{20}{section.9}% 
+\contentsline {section}{\numberline {10}Energia per sito e cumulante di Binder}{21}{section.10}% 
+\contentsline {section}{\numberline {11}Secondo modo per stimare $\gamma $}{22}{section.11}% 
+\contentsline {section}{\numberline {12}Comportamento ad alte e basse temperature}{24}{section.12}% 
+\contentsline {section}{\numberline {13}Conclusioni}{25}{section.13}% 
